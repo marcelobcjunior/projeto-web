@@ -1,0 +1,15 @@
+* COMANDO INICIO DA AULA (RONAN) *
+cd desktop
+git config --global user.name "Marcelo Bueno de Camargo Junior"
+git config --global user.email "marcelobcjunior@hotmail.com"
+git clone https://github.com/marcelobcjunior/projeto-web.git
+cd projeto-web
+code .
+
+* LIGANDO VENV *
+
+python -m venv venv
+venv\Scripts\activate
+
+
+
